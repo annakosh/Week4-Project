@@ -13,8 +13,8 @@ The code does the following:
 -- "domain": time or frequency           
 -- "signal": body or gravity           
 -- "device": accelerometer or gyroscope
--- "jerk_signal": logical indicator for jerk signal
--- "signal_magnitude": logical indicator for signal magnitude 
+-- "jerk.signal": logical indicator for jerk signal
+-- "signal.magnitude": logical indicator for signal magnitude 
 -- "axis": X, Y, or Z axis
 
 The codebook describes the variables in more detail. 
