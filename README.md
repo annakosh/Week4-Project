@@ -10,12 +10,12 @@ The code does the following:
  -- tidies up this data set, so that each column contains only one variable, as described in Hadley Wickham's "Tidy data" paper
 
  For tidying up, I created some new variables, according to my understanding of the Human Activity Recognition Using Smartphones Project documentation:
--- "domain": time or frequency           
+-- "domain": time or frequency     
 -- "signal": body or gravity           
--- "device": accelerometer or gyroscope
--- "jerk.signal": logical indicator for jerk signal
--- "signal.magnitude": logical indicator for signal magnitude 
--- "axis": X, Y, or Z axis
+-- "device": accelerometer or gyroscope   
+-- "jerk.signal": logical indicator for jerk signal    
+-- "signal.magnitude": logical indicator for signal magnitude     
+-- "axis": X, Y, or Z axis    
 
 The codebook describes the variables in more detail. 
 
